@@ -6,7 +6,7 @@
 <p align="center">
  
   <a href="https://hgbrasil.com/status/finance">
-      <img src="https://img.shields.io/badge/API%20-Site%E2%86%92-gray.svg?colorA=EFCD3F&colorB=EFCD3F&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/HGBrasil%20-API%E2%86%92-gray.svg?colorA=EFCD3F&colorB=EFCD3F&style=for-the-badge"/>
     </a>
    
 
