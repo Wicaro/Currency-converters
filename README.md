@@ -6,7 +6,7 @@
 <p align="center">
  
   <a href="https://hgbrasil.com/status/finance">
-      <img src="https://img.shields.io/badge/HGBrasil%20-API%E2%86%92-gray.svg?colorA=EFCD3F&colorB=EFCD3F&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/HGBrasil%20-API%E2%86%92-gray.svg?colorA=45D1FD&colorB=45D1FD&style=for-the-badge"/>
     </a>
    
 
@@ -34,7 +34,7 @@
 
 
 ![Dart](https://img.shields.io/badge/-Dart-%23F7DF1C?style=flat-square&logo=dart&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-Flutter-%23E44D27?style=flat-square&logo=flutter&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
