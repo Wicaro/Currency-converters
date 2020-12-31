@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://i.imgur.com/c8mzt5d.png" align="center" alt="Flutter" />
- <h2 align="center">Wicaro Mendes (Koda) - Diretor da OneUx</h2>
+ <h2 align="center">Wicaro Mendes (Koda) - Conversor de Moedas</h2>
 </p>
 <br>
 <p align="center">
