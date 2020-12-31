@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://plugins.jetbrains.com/files/12411/70430/icon/META-INF_pluginIcon.png" align="center" alt="Flutter" />
+ <img width="100px" src="https://i.imgur.com/c8mzt5d.png" align="center" alt="Flutter" />
  <h2 align="center">Koda - Conversor de Moedas</h2>
 </p>
 <br>
