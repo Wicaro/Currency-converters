@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://github.com/Wicaro/RazeHost/blob/master/img/logo.png" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" align="center" alt="Flutter" />
  <h2 align="center">Koda - Conversor de Moedas</h2>
 </p>
 <br>
