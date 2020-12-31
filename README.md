@@ -1,12 +1,12 @@
 <p align="center">
  <img width="100px" src="https://github.com/Wicaro/RazeHost/blob/master/img/logo.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Koda - Raze Host</h2>
+ <h2 align="center">Koda - Conversor de Moedas</h2>
 </p>
 <br>
 <p align="center">
  
-  <a href="https://raze.host/">
-      <img src="https://img.shields.io/badge/RazeHost%20-Site%E2%86%92-gray.svg?colorA=EFCD3F&colorB=EFCD3F&style=for-the-badge"/>
+  <a href="https://hgbrasil.com/status/finance">
+      <img src="https://img.shields.io/badge/API%20-Site%E2%86%92-gray.svg?colorA=EFCD3F&colorB=EFCD3F&style=for-the-badge"/>
     </a>
    
 
@@ -22,8 +22,8 @@
 
 
 
-- 👨‍💻 Landing page  ->  **Raze Host**.
-
+- 👨‍💻 Conversor de Moedas feito em **Flutter - Dart**.
+- 🔗 API usada -> https://hgbrasil.com/status/finance
 
 
 
@@ -52,12 +52,3 @@
 <p align="center">
  🚀 OneUx is the future
 </p>
-
-
-
-
-Simples APP feito em flutter;
-
-API: https://hgbrasil.com/status/finance
---------------------------------------------
-
