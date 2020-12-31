@@ -33,7 +33,7 @@
  ### Ferramentas usadas 🛠
 
 
-![Dart](https://img.shields.io/badge/-Dart-%45D1FD?style=flat-square&logo=dart&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Dart](http://img.shields.io/badge/-Dart-45d1fd?style=flat-square&logo=dart&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Flutter-%45D1FD?style=flat-square&logo=flutter&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
