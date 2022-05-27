@@ -24,7 +24,7 @@
 
 - 👨‍💻 Currency Converter made in **Flutter - Dart**.
 - 🔗 API used -> https://hgbrasil.com/status/finance
-
+- Currency Converters is an application designed to practice mobile development, whose objective is to convert values
 
 
 
