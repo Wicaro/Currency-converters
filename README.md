@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://i.imgur.com/c8mzt5d.png" align="center" alt="Flutter" />
- <h2 align="center">Wicaro Mendes (Koda) - Conversor de Moedas</h2>
+ <h2 align="center">Wicaro Mendes - Currency converters</h2>
 </p>
 <br>
 <p align="center">
@@ -22,15 +22,15 @@
 
 
 
-- 👨‍💻 Conversor de Moedas feito em **Flutter - Dart**.
-- 🔗 API usada -> https://hgbrasil.com/status/finance
+- 👨‍💻 Currency Converter made in **Flutter - Dart**.
+- 🔗 API used -> https://hgbrasil.com/status/finance
 
 
 
 
 
 
- ### Ferramentas usadas 🛠
+ ### tools used 🛠
 
 
 ![Dart](http://img.shields.io/badge/-Dart-45d1fd?style=flat-square&logo=dart&logoColor=ffffff)
@@ -42,21 +42,3 @@
 
 
 <br/>
-
-
-<p align="center">
-“Não se trata de ter ideias, mas sim de levar essas ideias para a vida real.” — Scott Belsky
-</p>
-
-
-<p align="center">
- 🚀 OneUx is the future
-</p>
-
-<p align="center">
- 
-  <a href="https://discord.gg/g3PZvy6wv5">
-      <img src="https://img.shields.io/badge/OneUx%20-Discord%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-   
-</p>
